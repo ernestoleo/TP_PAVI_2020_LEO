@@ -1,4 +1,5 @@
-# ProyectoPAVI_2020
+# Trabajo Practico Pav I 2020
+# Proyecto BugTracker
 
 
 Facturación de proyectos y productos
